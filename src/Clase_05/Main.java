@@ -14,5 +14,7 @@ public class Main {
         estudiante1.setId(numero);
 
         System.out.println("El nuevo valor del ID del estudiante es: "+estudiante1.getId());
+
+        System.out.println("FIN DEL EJEMPLO");
     }
 }
